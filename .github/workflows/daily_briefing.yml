@@ -28,10 +28,10 @@ jobs:
 
       - name: Run Briefing Script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          GMAIL_RECIPIENT: ${{ secrets.GMAIL_RECIPIENT }}
+          API_KEY: ${{ secrets.API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          PASSWORD_EMAIL: ${{ secrets.PASSWORD_EMAIL }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         run: |
           python main.py
 
