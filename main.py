@@ -22,7 +22,7 @@ from google import genai
 from google.genai import types
 
 
-MODEL_NAME = "gemini-3.8-flash"
+MODEL_NAME = "gemini-2.5-flash"
 HISTORY_PATH = Path(__file__).resolve().with_name("history.json")
 EASTERN_TIME = ZoneInfo("America/New_York")
 
