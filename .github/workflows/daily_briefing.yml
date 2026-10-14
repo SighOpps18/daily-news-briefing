@@ -2,8 +2,8 @@ name: Daily News Briefing
 
 on:
   schedule:
-    # 12:00 UTC corresponds to 8:00 AM EDT (Eastern Daylight Time)
-    - cron: '0 12 * * *'
+    # 11:45 UTC corresponds to 7:45 AM EDT (Eastern Daylight Time)
+    - cron: '45 11 * * *'
   workflow_dispatch: # Allows you to manually trigger a test run anytime
 
 jobs:
