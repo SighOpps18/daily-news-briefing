@@ -8,7 +8,7 @@ name: Daily News Briefing
 on:
   workflow_dispatch:
   schedule:
-    - cron: '3/5 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   run-briefing:
