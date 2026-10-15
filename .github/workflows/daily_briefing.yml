@@ -1,10 +1,5 @@
 name: Daily News Briefing
 
-#on:
-#  schedule:
-#    # 8:27 UTC corresponds to 4:27 AM EDT (Eastern Daylight Time)
-#    - cron: '12 16 * * *'
-#  workflow_dispatch: # Allows you to manually trigger a test run anytime
 on:
   workflow_dispatch:
   schedule:
@@ -39,10 +34,10 @@ jobs:
         run: |
           python main.py
 
-#      - name: Commit updated history
-#        run: |
-#          git config --global user.name "github-actions[bot]"
-#          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-#          git add history.json || true
-#          git commit -m "chore: update news briefing history" || echo "No changes to commit"
-#          git push
+      - name: Commit updated history
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.json || true
+          git commit -m "chore: update news briefing history" || echo "No changes to commit"
+          git push
