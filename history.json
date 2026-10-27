@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-13",
-      "headline": "Anthropic Warns AI Models Face Imminent Risk of Autonomous Self-Replication on Edge Hardware"
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "Houthi Strikes Strike Saudi Aramco Facility as U.S. Weighs Direct Military Retaliation"
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "Kyiv Suffers Missile Barrage Without Early Warnings as U.S. Threatens Intel Suspension"
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "Five Eyes and Allies Expose Chinese Tech Firm Powering Critical Infrastructure Exploits"
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "Türkiye Advances Parliamentary Review to Deploy Defensive Military Capabilities to Saudi Arabia"
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "Washington Ramps Countermeasures as Huawei Expands Telecom Monopoly in Nigeria"
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "SpaceX CRS-35 Launches Final Space Station Solar Arrays and Microgravity Biomedicine"
-    },
-    {
       "date": "2026-10-14",
       "headline": "White House Announces Russia-Ukraine Energy Ceasefire and Suspends Fuel Sanctions"
     },
@@ -423,6 +395,42 @@
     {
       "date": "2026-10-26",
       "headline": "Ukrainian Forces Break Mokri Yaly Salient to Liberate Three Southern Towns"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Localized Oleshky Ceasefire Brokered by Melania Trump Takes Effect"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "CISA Confirms In-the-Wild PHP2Shell Exploits and Mandates Emergency Remediation"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "President Trump Waives Graham Act Russia Sanctions to Secure Fuel Imports"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "NASA Restructures Artemis Roadmap to Target 2028 Moon Landing"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "United States and China Extend Reciprocal Port Fee Truce Through January"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Erdogan Dismisses Senior Adviser to Mend Strained Strategic Ties with Azerbaijan"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Webb Telescope Detects Heat-Shielding Mineral Atmosphere on Lava World TOI-561b"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Nigeria Proposes Pan-African Compute Pool to Secure Regional AI Sovereignty"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Huawei Launches Pre-Provisioned Home Fiber Infrastructure Pilot in South Africa"
     }
   ]
 }
