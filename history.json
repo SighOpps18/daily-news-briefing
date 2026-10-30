@@ -1,30 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-16",
-      "headline": "EU AI Office Opens First AI Act Enforcement Probes Into OpenAI and Anthropic"
-    },
-    {
-      "date": "2026-10-16",
-      "headline": "Drone Attacks on Tankers in Romanian Waters Spur Emergency NATO Consultations"
-    },
-    {
-      "date": "2026-10-16",
-      "headline": "Houthi Missile Blitz Shuts Riyadh Airport and Forces Postponement of EU-GCC Summit"
-    },
-    {
-      "date": "2026-10-16",
-      "headline": "Greece Moves to Resume Disputed Undersea Cable Survey Despite Turkish Objections"
-    },
-    {
-      "date": "2026-10-16",
-      "headline": "NASA and JAXA Complete Final Readiness for Historic Phobos Sample Return Mission"
-    },
-    {
-      "date": "2026-10-16",
-      "headline": "Huawei Enlists African Governments in Municipal AI City Governance Alliance"
-    },
-    {
       "date": "2026-10-17",
       "headline": "Trump Pauses Bipartisan Russia Sanctions Under Graham Act Citing National Interest"
     },
@@ -435,6 +411,34 @@
     {
       "date": "2026-10-29",
       "headline": "Orange Cyberdefense Partners with Mistral AI to Deploy Sovereign European Cyber Defense LLM"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "Iran Declares Strait of Hormuz Exclusion Zone and Deploys Naval Mines Following U.S. Precision Strikes"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "Anthropic and AWS Deploy Nation's First 500,000-Chip Sovereign Cluster for Defense Intelligence"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "CISA and NSA Issue Emergency Advisory on Iranian Wiper Malware Targeting U.S. Naval Shipyards"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "SpaceX Starship Completes Critical In-Space Propellant Transfer Test for Artemis Lunar Program"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "Ukraine and Russia Agree to Demilitarized Safety Buffer Around Zaporizhzhia Nuclear Plant"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "China and African Union Sign Unified Biometric Cloud Accord Centered in Addis Ababa"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "Türkiye Deploys Naval Escort Flotilla to Safeguard Black Sea Commercial Shipping Corridors"
     }
   ]
 }
