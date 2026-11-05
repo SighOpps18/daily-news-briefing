@@ -1,38 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-22",
-      "headline": "Trump Holds Back $14 Billion Taiwan Weapons Package Amid Beijing Trade Truce"
-    },
-    {
-      "date": "2026-10-22",
-      "headline": "U.S. Restores Ballistic Missile Warning Intelligence Sharing to Ukraine"
-    },
-    {
-      "date": "2026-10-22",
-      "headline": "DeepSeek Releases V4.1-Flash-1017 Retraining to Rival Leading Western Models"
-    },
-    {
-      "date": "2026-10-22",
-      "headline": "FBI and CISA Issue Joint Warning Over SafePay Ransomware Hitting 600 Critical Entities"
-    },
-    {
-      "date": "2026-10-22",
-      "headline": "North Korea Deploys Forward Firepower Units and Puts Border Troops on Combat Alert"
-    },
-    {
-      "date": "2026-10-22",
-      "headline": "JAXA and NASA Launch Historic MMX Mission to Sample Martian Moon Phobos"
-    },
-    {
-      "date": "2026-10-22",
-      "headline": "African Startups Pivot to Chinese Open-Source AI Over Costly Western Frontier Models"
-    },
-    {
-      "date": "2026-10-22",
-      "headline": "EU and Regional Allies Condemn Revived Türkiye-Libya Maritime Border Pact"
-    },
-    {
       "date": "2026-10-23",
       "headline": "Treasury Issues COINS Act Rule Banning U.S. Investment in Adversary AI"
     },
@@ -431,6 +399,34 @@
     {
       "date": "2026-11-04",
       "headline": "NASA Solicits Commercial Industry Proposals to Boost Hubble Telescope Orbit"
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "White House Convenes Russian and Ukrainian Envoys to Expand Oleshky Ceasefire"
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Leaked Documents Reveal Russia Agreed to Supply Iran with 90 Helicopter Missile Launchers"
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "DeepSeek to Pretrain Flagship V5 Model on 160,000 Huawei Ascend 950 Chips"
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "CISA Adds Apple Flaw to Exploit Catalog as Russian Hackers Target Mobile Devices"
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "NASA's Swift Space Observatory Burns Up Over Indonesia After Rescue Mission Fails"
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Kenya and China Launch $180 Million AI Cloud Infrastructure Project in Eldoret"
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Türkiye and South Korea Seal Strategic Accords on Altay Tank Production and Nuclear Financing"
     }
   ]
 }
