@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-23",
-      "headline": "Treasury Issues COINS Act Rule Banning U.S. Investment in Adversary AI"
-    },
-    {
-      "date": "2026-10-23",
-      "headline": "Fatal Houthi Strike on Dammam Airport Triggers U.S. Evacuation Order"
-    },
-    {
-      "date": "2026-10-23",
-      "headline": "National Security Coalition Petitions D.C. Circuit Over Anthropic Blacklist"
-    },
-    {
-      "date": "2026-10-23",
-      "headline": "Finland Grants World-First Operating License for Onkalo Nuclear Repository"
-    },
-    {
-      "date": "2026-10-23",
-      "headline": "IRGC Claims Strikes on Seven Tankers and Threatens U.S. Escorts Near Hormuz"
-    },
-    {
-      "date": "2026-10-23",
-      "headline": "Houthis Sever Taiz-Aden Highway to Encircle Yemen's Third-Largest City"
-    },
-    {
-      "date": "2026-10-23",
-      "headline": "Türkiye Hosts Inaugural R4 and E3 Ministerial Summit in Istanbul"
-    },
-    {
       "date": "2026-10-24",
       "headline": "U.S. Space Force Operationalizes Commercial Reserve as Pentagon Confirms Orbit Defense Weapons"
     },
@@ -427,6 +399,34 @@
     {
       "date": "2026-11-05",
       "headline": "Türkiye and South Korea Seal Strategic Accords on Altay Tank Production and Nuclear Financing"
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "OpenAI Unveils GPT-6 Cyber Model with Autonomous Exploit Synthesis Pipeline"
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Blue Origin Unveils GS3 Heavy-Lift Third Stage for Cislunar and Deep Space Missions"
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Taiwan Adopts Multi-Node Kill Web Doctrine and Bans Chinese Chips Across All Drone Procurements"
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Russia and Iran Advance Bilateral Gas Pipeline Negotiations to Circumvent Wartime Infrastructure Damage"
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "CISA Issues Emergency Patching Mandate Over Actively Exploited WordPress Core TOCTOU Flaw"
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Chinese Telecoms Expand African Cloud and AI Footprint as Washington Prepares Restrictive Measures"
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Türkiye Unveils $500 Billion National Energy 2040 Vision and Launches Sovereign Mining in Niger"
     }
   ]
 }
