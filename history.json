@@ -1,38 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-25",
-      "headline": "Trump Threatens Renewed Iran Strike as DNI Alerts to Advanced Regional Plots"
-    },
-    {
-      "date": "2026-10-25",
-      "headline": "Kim Jong Un Inaugurates New Yalu River Bridge During Surprise China Visit"
-    },
-    {
-      "date": "2026-10-25",
-      "headline": "DHS Orders Federal Civilian Agencies to Purge DeepSeek Models Over Espionage Fears"
-    },
-    {
-      "date": "2026-10-25",
-      "headline": "SpaceX Restores Unrestricted High-Speed Starlink and Starshield Access Across Ukraine"
-    },
-    {
-      "date": "2026-10-25",
-      "headline": "Microsoft Scraps Flagship UK AI Data Center Deal Over Grid Power Bottlenecks"
-    },
-    {
-      "date": "2026-10-25",
-      "headline": "Israeli and Greek Navies Launch Mediterranean Drills Signaling Opposition to Ankara"
-    },
-    {
-      "date": "2026-10-25",
-      "headline": "AI-Driven Vulnerability Tsunami Shuts Down Critical European Government Portals"
-    },
-    {
-      "date": "2026-10-25",
-      "headline": "Webb Discovers Distant Galaxy Cluster Defying Standard Models of Dark Matter"
-    },
-    {
       "date": "2026-10-26",
       "headline": "Anthropic Files Form S-1 with SEC for Landmark Nasdaq Listing"
     },
@@ -423,6 +391,34 @@
     {
       "date": "2026-11-07",
       "headline": "China Mobile Deploys Cloud and AI Computing Infrastructure Across Nigeria"
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "White House Pushes Broader European Security Framework as Allied Envoys Seek Inclusion in Abu Dhabi Talks"
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "CISA and FBI Issue Emergency Warning Over Cyberattacks Hijacking Industrial Cold-Chain Systems"
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "Nvidia Mandates 51% Non-Chinese Tenancy on Global Cloud Partners to Block Offshore GPU Workarounds"
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "Israeli President Formally Tasks Opposition Leader Gadi Eisenkot to Form Next Government"
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "US Scrutiny Intensifies Over Chinese Telecoms Expanding African 5G and Data Center Footprint"
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "Türkiye and France Sign Bilateral Defense Roadmap to Expand Military and Air Defense Ties"
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "ESA's Hera Mission Resolves Asteroid Dimorphos to Assess NASA's DART Collision Crater"
     }
   ]
 }
