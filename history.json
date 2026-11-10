@@ -1,42 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-27",
-      "headline": "Localized Oleshky Ceasefire Brokered by Melania Trump Takes Effect"
-    },
-    {
-      "date": "2026-10-27",
-      "headline": "CISA Confirms In-the-Wild PHP2Shell Exploits and Mandates Emergency Remediation"
-    },
-    {
-      "date": "2026-10-27",
-      "headline": "President Trump Waives Graham Act Russia Sanctions to Secure Fuel Imports"
-    },
-    {
-      "date": "2026-10-27",
-      "headline": "NASA Restructures Artemis Roadmap to Target 2028 Moon Landing"
-    },
-    {
-      "date": "2026-10-27",
-      "headline": "United States and China Extend Reciprocal Port Fee Truce Through January"
-    },
-    {
-      "date": "2026-10-27",
-      "headline": "Erdogan Dismisses Senior Adviser to Mend Strained Strategic Ties with Azerbaijan"
-    },
-    {
-      "date": "2026-10-27",
-      "headline": "Webb Telescope Detects Heat-Shielding Mineral Atmosphere on Lava World TOI-561b"
-    },
-    {
-      "date": "2026-10-27",
-      "headline": "Nigeria Proposes Pan-African Compute Pool to Secure Regional AI Sovereignty"
-    },
-    {
-      "date": "2026-10-27",
-      "headline": "Huawei Launches Pre-Provisioned Home Fiber Infrastructure Pilot in South Africa"
-    },
-    {
       "date": "2026-10-28",
       "headline": "U.S. Launches Retaliatory Precision Strikes on IRGC Drone and Missile Sites in Southern Iran"
     },
@@ -411,6 +375,38 @@
     {
       "date": "2026-11-09",
       "headline": "Türkiye and Egypt Conclude Sea of Friendship 2026 Joint Naval Drills off Alexandria"
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "Trump Signals Iran War Militarily Effectively Over as Tehran Rebuffs Talks and Demands Blockade Relief"
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "Anthropic Launches Claude Fable 5.2 and Restricts Dual-Use Cyber Model Mythos 5.2"
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "Google Debuts TPU 8tx and TPU 8i Max with Hardware Confidentiality for AI Agents"
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "CISA Adds Exploited OpenSSH 'SSHole' and GPUStack Vulnerabilities to KEV Catalog"
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "France Attributes Nationwide Commercial Refrigeration Cyberattacks to Iran's IRGC"
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "Türkiye Proposes Joint Warship Co-Production with Egypt Under MİLGEM Program"
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "China Signs $5.8 Billion in African Logistics and Critical Mineral Deals at Yiwu Forum"
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "NASA Launches $500,000 AMPERE Prize to Accelerate Domestic Satellite Electric Propulsion"
     }
   ]
 }
