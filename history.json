@@ -1,38 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-28",
-      "headline": "U.S. Launches Retaliatory Precision Strikes on IRGC Drone and Missile Sites in Southern Iran"
-    },
-    {
-      "date": "2026-10-28",
-      "headline": "TSMC Arizona Yields First Domestic 2-Nanometer Test Wafers Ahead of Target"
-    },
-    {
-      "date": "2026-10-28",
-      "headline": "CISA Issues Emergency Directive After Russian Hackers Exploit Cloud Identity Zero-Day"
-    },
-    {
-      "date": "2026-10-28",
-      "headline": "NASA and DARPA Fire First Full-Power Ground Core for DRACO Nuclear Spacecraft"
-    },
-    {
-      "date": "2026-10-28",
-      "headline": "Beijing Encircles Taiwan with Joint Sword-2026B Drills Countering U.S.-Japan Maneuvers"
-    },
-    {
-      "date": "2026-10-28",
-      "headline": "Türkiye and Saudi Arabia Finalize $6 Billion KAAN Stealth Fighter Co-Production Accord"
-    },
-    {
-      "date": "2026-10-28",
-      "headline": "ZTE Secures 4,500-Kilometer East African Fiber Backbone Contract Over Western Bids"
-    },
-    {
-      "date": "2026-10-28",
-      "headline": "Ukraine and Russia Ink Bilateral Dnipro River Transit Pact Following Oleshky Truce"
-    },
-    {
       "date": "2026-10-29",
       "headline": "Pentagon Discloses $47.1 Billion Iran War Cost as Munitions Depletion Mounts"
     },
@@ -407,6 +375,38 @@
     {
       "date": "2026-11-10",
       "headline": "NASA Launches $500,000 AMPERE Prize to Accelerate Domestic Satellite Electric Propulsion"
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Russia and Ukraine Conclude Abu Dhabi Talks with Landmark Prisoner Exchange"
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Google Debuts Gemini 4 Carbon with Swarm Multi-Agent Orchestration"
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Meta Launches Muse Ember to Power High-Frequency Autonomous Agent Workflows"
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "CISA Adds Actively Exploited Microsoft Outlook and Chromium Zero-Days to KEV Catalog"
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Türkiye and Saudi Arabia Seal 3,000 MW Wind Energy Pact at COP31 Antalya"
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Starfish Space and NASA Declare Otter Satellite Servicing Demonstration a Total Loss"
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "South Africa and China Expand Bilateral Space Information and Satellite Partnership"
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Israel Opens Permanent Military Attaché Office in Morocco to Solidify Defense Ties"
     }
   ]
 }
