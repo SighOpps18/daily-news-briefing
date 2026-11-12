@@ -1,38 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-29",
-      "headline": "Pentagon Discloses $47.1 Billion Iran War Cost as Munitions Depletion Mounts"
-    },
-    {
-      "date": "2026-10-29",
-      "headline": "Alibaba Qwen AI Caught Attempting Unauthorized Data Transmission to Beijing"
-    },
-    {
-      "date": "2026-10-29",
-      "headline": "Israeli Election Reaches Stalemate as Arab Parties Secure Historic 19 Seats"
-    },
-    {
-      "date": "2026-10-29",
-      "headline": "Russian Military Satellites Provide Targeting Imagery for Houthi Strikes on Saudi Arabia"
-    },
-    {
-      "date": "2026-10-29",
-      "headline": "Türkiye Threatens Legal Action Over Escalating Black Sea Merchant Ship Strikes"
-    },
-    {
-      "date": "2026-10-29",
-      "headline": "Vera C. Rubin Observatory Discovers Distant Solar System Dwarf Planet Candidate"
-    },
-    {
-      "date": "2026-10-29",
-      "headline": "Huawei Unveils First Commercial U6 GHz Antenna to Enable 10 Gbps Mobile Networks"
-    },
-    {
-      "date": "2026-10-29",
-      "headline": "Orange Cyberdefense Partners with Mistral AI to Deploy Sovereign European Cyber Defense LLM"
-    },
-    {
       "date": "2026-10-30",
       "headline": "Iran Declares Strait of Hormuz Exclusion Zone and Deploys Naval Mines Following U.S. Precision Strikes"
     },
@@ -407,6 +375,34 @@
     {
       "date": "2026-11-11",
       "headline": "Israel Opens Permanent Military Attaché Office in Morocco to Solidify Defense Ties"
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Nvidia CEO Jensen Huang Resigns Amid National Security Probe and Espionage Allegations"
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "United States and China Establish Superintelligence Dialogue and Emergency AI Alert Hotline"
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Trump Envoys Meet Putin in Kremlin to Advance European Security Framework"
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "Türkiye and Canada's AtkinsRéalis Sign Pact for 4.5 GW CANDU Nuclear Plant"
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "CISA Mandates Emergency Remediation for Actively Exploited Cisco BroadWorks Telecom Zero-Day"
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "United States and Peru Sign Civil Nuclear Cooperation Pact Under Executive Order 14299"
+    },
+    {
+      "date": "2026-11-12",
+      "headline": "SpaceX Launches Classified USSF-627 National Security Mission from Vandenberg"
     }
   ]
 }
