@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-10-30",
-      "headline": "Iran Declares Strait of Hormuz Exclusion Zone and Deploys Naval Mines Following U.S. Precision Strikes"
-    },
-    {
-      "date": "2026-10-30",
-      "headline": "Anthropic and AWS Deploy Nation's First 500,000-Chip Sovereign Cluster for Defense Intelligence"
-    },
-    {
-      "date": "2026-10-30",
-      "headline": "CISA and NSA Issue Emergency Advisory on Iranian Wiper Malware Targeting U.S. Naval Shipyards"
-    },
-    {
-      "date": "2026-10-30",
-      "headline": "SpaceX Starship Completes Critical In-Space Propellant Transfer Test for Artemis Lunar Program"
-    },
-    {
-      "date": "2026-10-30",
-      "headline": "Ukraine and Russia Agree to Demilitarized Safety Buffer Around Zaporizhzhia Nuclear Plant"
-    },
-    {
-      "date": "2026-10-30",
-      "headline": "China and African Union Sign Unified Biometric Cloud Accord Centered in Addis Ababa"
-    },
-    {
-      "date": "2026-10-30",
-      "headline": "Türkiye Deploys Naval Escort Flotilla to Safeguard Black Sea Commercial Shipping Corridors"
-    },
-    {
       "date": "2026-10-31",
       "headline": "U.S. Fifth Fleet Launches Combat Operation to Clear Iranian Naval Mines in Strait of Hormuz"
     },
@@ -403,6 +375,42 @@
     {
       "date": "2026-11-12",
       "headline": "SpaceX Launches Classified USSF-627 National Security Mission from Vandenberg"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "Trump Halts Vance's Secret Iran Diplomacy and Dismisses Further Negotiations"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "SpaceX Prepares Starship Flight 15 for First Full Double-Stage Tower Catch"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "Trump Nominates Palantir CISO Michael LoSapio to Direct CISA"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "Houthis Launch Combined-Arms Offensive in Southwestern Yemen to Sever Aden Corridor"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "United Airlines Bans Third-Party Autonomous AI Agents Over Credential Risks"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "Enea Uncovers SilentAir Cyber Espionage Group Hijacking Asian Telecom Signaling Networks"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "US Development Finance Corporation Pledges Capital Surge to Counter China in Africa's Digital Backbone"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "Johnson Controls Pays $5 Million to Settle Federal Cybersecurity Compliance Fraud Probe"
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "Türkiye Secures €660 Million IsDB Financing for Northern Istanbul Rail Artery"
     }
   ]
 }
