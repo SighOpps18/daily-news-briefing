@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-01",
-      "headline": "U.S. Carrier Air Wings Strike Iranian Coastal Missile Sites After Attack on Hormuz Minesweepers"
-    },
-    {
-      "date": "2026-11-01",
-      "headline": "Commerce Department Imposes Comprehensive Export Controls on Frontier Open-Weight AI Models"
-    },
-    {
-      "date": "2026-11-01",
-      "headline": "CISA and FBI Confirm Salt Typhoon Infiltration of Federal Wiretap Portals Across Major U.S. Telecoms"
-    },
-    {
-      "date": "2026-11-01",
-      "headline": "China's Chang'e 7 Lands at Lunar South Pole, Confirming Subsurface Water Ice in Shackleton Crater"
-    },
-    {
-      "date": "2026-11-01",
-      "headline": "DRC Partners with Huawei to Deploy Real-Time Digital Tracking Across Strategic Cobalt-Copper Belt"
-    },
-    {
-      "date": "2026-11-01",
-      "headline": "Türkiye Brokers Comprehensive Maritime Transit Accord Resolving Ethiopia-Somalia Red Sea Dispute"
-    },
-    {
-      "date": "2026-11-01",
-      "headline": "Taiwan Commissions First Domestically Built Narwhal-Class Attack Submarine for Active Patrols"
-    },
-    {
       "date": "2026-11-02",
       "headline": "Oman Brokers Bilateral Hormuz Ceasefire Pact Between United States and Iran"
     },
@@ -407,6 +379,38 @@
     {
       "date": "2026-11-14",
       "headline": "White House Formalizes 'No-War, No-Talks' Posture on Iran Relying on Naval Chokeholds"
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "US Proposes Ukraine Cede Entire Donbas to Russia in Exchange for NATO Membership"
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Google DeepMind Uses AlphaProof Code to Formally Verify Signal Cryptographic Protocol"
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Check Point Patches Root Zero-Day CVE-2026-123039 Chained to ESXi Wiper Attacks"
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Able2Shell Exploit Wave Exposes 33 Zero-Days in N-able N-central MSP Platform"
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Australia Mandates Frontier AI Safety Standards and Creates Dedicated Regulator"
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Ecobank Signs CIPS Agreement as China Accelerates Digital Yuan Clearing Across Africa"
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Türkiye and Bangladesh Advance Talks on Joint Defense Industrial Park and Arms Production"
+    },
+    {
+      "date": "2026-11-15",
+      "headline": "Ukraine Launches Deep Drone Strikes on Russian Petrochemical Complex in Tatarstan"
     }
   ]
 }
