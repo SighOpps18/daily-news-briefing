@@ -1,30 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-02",
-      "headline": "Oman Brokers Bilateral Hormuz Ceasefire Pact Between United States and Iran"
-    },
-    {
-      "date": "2026-11-02",
-      "headline": "China's SMIC Achieves 3-Nanometer Pilot Yields Using Self-Aligned Quadruple Patterning"
-    },
-    {
-      "date": "2026-11-02",
-      "headline": "CISA Issues Emergency Directive After Firmware Implants Discovered in U.S. Electrical Substation Controllers"
-    },
-    {
-      "date": "2026-11-02",
-      "headline": "NASA and ESA Launch Joint Polar Mining Architecture to Counter Chinese Shackleton Crater Outpost"
-    },
-    {
-      "date": "2026-11-02",
-      "headline": "Kenya Awards National Cloud and Subsea Landing Concession to China Telecom Over Western Bids"
-    },
-    {
-      "date": "2026-11-02",
-      "headline": "Türkiye Normalizes Diplomatic Relations with Armenia Following Landmark Zangezur Transit Accord"
-    },
-    {
       "date": "2026-11-03",
       "headline": "White House Authorizes Co-Located SMR Nuclear Power for Classified Defense AI Supercomputers"
     },
@@ -411,6 +387,38 @@
     {
       "date": "2026-11-15",
       "headline": "Ukraine Launches Deep Drone Strikes on Russian Petrochemical Complex in Tatarstan"
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "White House Prepares AI National Champions Designation for Over 24 Frontier Tech Firms"
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "USS Theodore Roosevelt Arrives in Middle East Bringing US Carrier Fleet to Three"
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "SpaceX Catches Starship Upper Stage in Mid-Air Following Historic Orbital Test Flight"
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "CISA Adds Critical UnrealIRCd Server Flaw to Known Exploited Vulnerabilities Catalog"
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "China Integrates Standard Bank into CIPS to Accelerate Yuan Clearing Across African Infrastructure"
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Turkish Cargo Launches Direct Scheduled Freight Route Connecting Istanbul and Yerevan"
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "NASA Unveils $1 Million Moon Base Challenge to Crowdsource South Pole Habitat Architecture"
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "OpenAI Leverages GPT-6 Astra to Formalize Candidate Standard Model Lattice Proof"
     }
   ]
 }
