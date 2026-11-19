@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-05",
-      "headline": "White House Convenes Russian and Ukrainian Envoys to Expand Oleshky Ceasefire"
-    },
-    {
-      "date": "2026-11-05",
-      "headline": "Leaked Documents Reveal Russia Agreed to Supply Iran with 90 Helicopter Missile Launchers"
-    },
-    {
-      "date": "2026-11-05",
-      "headline": "DeepSeek to Pretrain Flagship V5 Model on 160,000 Huawei Ascend 950 Chips"
-    },
-    {
-      "date": "2026-11-05",
-      "headline": "CISA Adds Apple Flaw to Exploit Catalog as Russian Hackers Target Mobile Devices"
-    },
-    {
-      "date": "2026-11-05",
-      "headline": "NASA's Swift Space Observatory Burns Up Over Indonesia After Rescue Mission Fails"
-    },
-    {
-      "date": "2026-11-05",
-      "headline": "Kenya and China Launch $180 Million AI Cloud Infrastructure Project in Eldoret"
-    },
-    {
-      "date": "2026-11-05",
-      "headline": "Türkiye and South Korea Seal Strategic Accords on Altay Tank Production and Nuclear Financing"
-    },
-    {
       "date": "2026-11-06",
       "headline": "OpenAI Unveils GPT-6 Cyber Model with Autonomous Exploit Synthesis Pipeline"
     },
@@ -427,6 +399,38 @@
     {
       "date": "2026-11-18",
       "headline": "Türkiye Completes 11,000-Kilometer Non-Stop Rotation of Somalia-Based F-16 Squadron"
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Trump, Xi, and Putin Sign Shenzhen Peace Declaration Limiting ICC and Expanding Fuel Supplies"
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "US and Venezuela Restore Defense Ties with Historic Bilateral Military Pact"
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "CISA Warns Critical 'Java4Shell' Flaw Exposes Enterprise Servers to Remote Execution"
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "ICJ Delivers Landmark Verdict Finding Myanmar Responsible for Rohingya Genocide"
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Palo Alto Networks Acquires Open-Weight AI Leader Applied Compute for $4.5 Billion"
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "COP31 Antalya Presidency Drops Fossil Fuel Phaseout from Cover Agreement"
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Chinese Espionage Actors Overhaul EggStreme Backdoor to Target Pacific Allies"
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Webb Telescope Helps Detect First Confirmed 'Star-Within-a-Star' Merger"
     }
   ]
 }
