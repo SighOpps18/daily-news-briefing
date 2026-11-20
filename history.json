@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-06",
-      "headline": "OpenAI Unveils GPT-6 Cyber Model with Autonomous Exploit Synthesis Pipeline"
-    },
-    {
-      "date": "2026-11-06",
-      "headline": "Blue Origin Unveils GS3 Heavy-Lift Third Stage for Cislunar and Deep Space Missions"
-    },
-    {
-      "date": "2026-11-06",
-      "headline": "Taiwan Adopts Multi-Node Kill Web Doctrine and Bans Chinese Chips Across All Drone Procurements"
-    },
-    {
-      "date": "2026-11-06",
-      "headline": "Russia and Iran Advance Bilateral Gas Pipeline Negotiations to Circumvent Wartime Infrastructure Damage"
-    },
-    {
-      "date": "2026-11-06",
-      "headline": "CISA Issues Emergency Patching Mandate Over Actively Exploited WordPress Core TOCTOU Flaw"
-    },
-    {
-      "date": "2026-11-06",
-      "headline": "Chinese Telecoms Expand African Cloud and AI Footprint as Washington Prepares Restrictive Measures"
-    },
-    {
-      "date": "2026-11-06",
-      "headline": "Türkiye Unveils $500 Billion National Energy 2040 Vision and Launches Sovereign Mining in Niger"
-    },
-    {
       "date": "2026-11-07",
       "headline": "Russia, Ukraine, and United States Convene Trilateral Peace Talks in Abu Dhabi"
     },
@@ -431,6 +403,42 @@
     {
       "date": "2026-11-19",
       "headline": "Webb Telescope Helps Detect First Confirmed 'Star-Within-a-Star' Merger"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "US Enacts Unprecedented Global Export Controls on Remote AI Chip and Cloud Access"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Danish Parliament Unanimously Ratifies Greenland Defense Pact with United States"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Nvidia Board Rebuffs Huang Return Following National Security Resignation"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Russian Ballistic Barrage Damages Three Major Dnipro River Bridges in Kyiv"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "United Kingdom and European Union Conclude Comprehensive Post-Brexit Reset Deal"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "NATO and South Korea Inaugurate STARLIFT Military Space Launch Initiative"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "CISA Issues Emergency Directive Over Actively Exploited REDCap and Axis Flaws"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Türkiye Centralizes Domestic Digital Regulation and Lawful Wiretaps Under Presidency"
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "United States Accelerates West African Wireless Push to Counter Huawei"
     }
   ]
 }
