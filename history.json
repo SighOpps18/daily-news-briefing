@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-07",
-      "headline": "Russia, Ukraine, and United States Convene Trilateral Peace Talks in Abu Dhabi"
-    },
-    {
-      "date": "2026-11-07",
-      "headline": "Commercial Tankers Strike Sea Mines in Strait of Hormuz as Fatalities Mount"
-    },
-    {
-      "date": "2026-11-07",
-      "headline": "Japan Deploys Emergency Active Cyber Defense Package and AI Counter-Hack Teams"
-    },
-    {
-      "date": "2026-11-07",
-      "headline": "OCC Issues Comprehensive Supervisory Framework for Autonomous AI in Banking"
-    },
-    {
-      "date": "2026-11-07",
-      "headline": "NASA and Energy Department Enact Space Nuclear Power Pact for 2028 Reactor Launch"
-    },
-    {
-      "date": "2026-11-07",
-      "headline": "Turkish Parliament Formally Ratifies Mecca Joint Defense Pact with Saudi Arabia and Pakistan"
-    },
-    {
-      "date": "2026-11-07",
-      "headline": "China Mobile Deploys Cloud and AI Computing Infrastructure Across Nigeria"
-    },
-    {
       "date": "2026-11-08",
       "headline": "White House Pushes Broader European Security Framework as Allied Envoys Seek Inclusion in Abu Dhabi Talks"
     },
@@ -439,6 +411,42 @@
     {
       "date": "2026-11-20",
       "headline": "United States Accelerates West African Wireless Push to Counter Huawei"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Russian Munitions Crash on Polish Soil Triggering NATO Alert and Fighter Scramble"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Broadcom Patches Critical VMware vCenter Zero-Day Exploited by State Hackers"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Anthropic Debuts at Historic $81 Billion Valuation and Claims AI Solved Riemann Hypothesis"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Chinese Entities Industrialize AI Model Distillation to Bypass US Chip Restrictions"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Türkiye Proposes Joint Warship Co-Production With Egypt Under MILGEM Program"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Vodacom and Huawei Validate Africa's First U6GHz 5G-Advanced Wireless Architecture"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "CISA Adds Exploited Puppet Enterprise Remote Code Execution Flaw to KEV Catalog"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "NASA Unveils 2028 Nuclear Flight Test Roadmap and Fission Reactor for Lunar Base"
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "APEC Leaders Adopt 2027–2030 Trade Digitalization Cooperation Framework in Shenzhen"
     }
   ]
 }
