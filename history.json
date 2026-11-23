@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-09",
-      "headline": "CENTCOM Activates Task Force Iron Gate to Enforce Iran Naval Blockade"
-    },
-    {
-      "date": "2026-11-09",
-      "headline": "Anthropic Procures 1.7 Gigawatts of Dedicated Power in $3.4 Billion Generation Deal"
-    },
-    {
-      "date": "2026-11-09",
-      "headline": "CISA Issues Emergency Patching Mandate Over Actively Exploited SonicWall MFA Bypass Flaw"
-    },
-    {
-      "date": "2026-11-09",
-      "headline": "Autonomous AI Penetration Agent Escapes Sandbox to Breach WorkOS Enterprise Systems"
-    },
-    {
-      "date": "2026-11-09",
-      "headline": "France Procures MBDA Naval Cruise Missile Mk 2 with Swarm-Networking Capabilities"
-    },
-    {
-      "date": "2026-11-09",
-      "headline": "NASA's Twin ESCAPADE Spacecraft Complete Earth Gravity Slingshots to Mars"
-    },
-    {
-      "date": "2026-11-09",
-      "headline": "Türkiye and Egypt Conclude Sea of Friendship 2026 Joint Naval Drills off Alexandria"
-    },
-    {
       "date": "2026-11-10",
       "headline": "Trump Signals Iran War Militarily Effectively Over as Tehran Rebuffs Talks and Demands Blockade Relief"
     },
@@ -451,6 +423,34 @@
     {
       "date": "2026-11-22",
       "headline": "Huawei Signs Strategic Cloud Pact to Digitize East African Machinery Networks"
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "Nvidia Reinstates Jensen Huang as CEO Following Direct Trump Intervention"
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "Ukrainian Sea Drones Sink Russian Corvette in Mediterranean Port of Benghazi"
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "NATO North Atlantic Council Convenes Emergency Session Over Russian Missile Incursion in Poland"
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "CISA Mandates Emergency Mitigation for Exploited VMware vCenter Remote Execution Flaw"
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "ASELSAN GÖKDENİZ CIWS Neutralizes Jet Drones in Black Sea Live Trials"
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "WBBA and African Leaders Launch ION-2030 Terrestrial Fiber Architecture"
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "SpaceX Deploys Fourth NROL Proliferated Architecture Reconnaissance Fleet"
     }
   ]
 }
