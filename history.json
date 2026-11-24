@@ -1,38 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-10",
-      "headline": "Trump Signals Iran War Militarily Effectively Over as Tehran Rebuffs Talks and Demands Blockade Relief"
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Anthropic Launches Claude Fable 5.2 and Restricts Dual-Use Cyber Model Mythos 5.2"
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Google Debuts TPU 8tx and TPU 8i Max with Hardware Confidentiality for AI Agents"
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "CISA Adds Exploited OpenSSH 'SSHole' and GPUStack Vulnerabilities to KEV Catalog"
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "France Attributes Nationwide Commercial Refrigeration Cyberattacks to Iran's IRGC"
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Türkiye Proposes Joint Warship Co-Production with Egypt Under MİLGEM Program"
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "China Signs $5.8 Billion in African Logistics and Critical Mineral Deals at Yiwu Forum"
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "NASA Launches $500,000 AMPERE Prize to Accelerate Domestic Satellite Electric Propulsion"
-    },
-    {
       "date": "2026-11-11",
       "headline": "Russia and Ukraine Conclude Abu Dhabi Talks with Landmark Prisoner Exchange"
     },
@@ -451,6 +419,38 @@
     {
       "date": "2026-11-23",
       "headline": "SpaceX Deploys Fourth NROL Proliferated Architecture Reconnaissance Fleet"
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "German Intelligence Warns Russia Preparing Orbital Nuclear Weapon Launch"
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Autonomous AI Agents Discover and Weaponize Zero-Day Exploit"
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "US Navy Contracts Raytheon and Anduril to Advance Sea-Launched Nuclear Cruise Missile"
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Satellite Imagery Confirms China's Nuclear-Powered Type 004 Aircraft Carrier Nearing Hull Completion"
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Pentagon Formally Rebukes Canadian Defense Posture Under Secret Hegseth Directive"
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "FBI Warns Nation of Weaponized ARTEX AI Tool Automating Machine-Speed Cyberattacks"
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Eastern Libyan Commander Khalifa Haftar Makes Historic First Official Visit to Ankara"
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Huawei and African Regulators Launch Joint Initiative to Anchor Continental IP Architecture"
     }
   ]
 }
