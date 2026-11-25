@@ -1,38 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-11",
-      "headline": "Russia and Ukraine Conclude Abu Dhabi Talks with Landmark Prisoner Exchange"
-    },
-    {
-      "date": "2026-11-11",
-      "headline": "Google Debuts Gemini 4 Carbon with Swarm Multi-Agent Orchestration"
-    },
-    {
-      "date": "2026-11-11",
-      "headline": "Meta Launches Muse Ember to Power High-Frequency Autonomous Agent Workflows"
-    },
-    {
-      "date": "2026-11-11",
-      "headline": "CISA Adds Actively Exploited Microsoft Outlook and Chromium Zero-Days to KEV Catalog"
-    },
-    {
-      "date": "2026-11-11",
-      "headline": "Türkiye and Saudi Arabia Seal 3,000 MW Wind Energy Pact at COP31 Antalya"
-    },
-    {
-      "date": "2026-11-11",
-      "headline": "Starfish Space and NASA Declare Otter Satellite Servicing Demonstration a Total Loss"
-    },
-    {
-      "date": "2026-11-11",
-      "headline": "South Africa and China Expand Bilateral Space Information and Satellite Partnership"
-    },
-    {
-      "date": "2026-11-11",
-      "headline": "Israel Opens Permanent Military Attaché Office in Morocco to Solidify Defense Ties"
-    },
-    {
       "date": "2026-11-12",
       "headline": "Nvidia CEO Jensen Huang Resigns Amid National Security Probe and Espionage Allegations"
     },
@@ -451,6 +419,34 @@
     {
       "date": "2026-11-24",
       "headline": "Huawei and African Regulators Launch Joint Initiative to Anchor Continental IP Architecture"
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Trump Administration Proposes Sweeping Tariffs on China, EU, Japan, and 11 Other Trading Partners"
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Federal Jury Convicts Huawei of Conspiracy to Steal Trade Secrets and Bank Fraud"
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "CISA Adds Exploited Root Execution Flaw in HPE Juniper Routers to KEV Catalog"
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Canada Reasserts Defense Sovereignty and Blasts Pentagon Over Hegseth Military Rebuke"
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Libyan National Army Vows Retaliation Following Fatal Ukrainian Sea Drone Strike in Benghazi"
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "North Korea Expels Swiss Diplomat and Shuts Down Mission Over Youth Camp Sanctions"
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Bayraktar AKINCI Conducts First Aerial Release of Indigenous ORKA Lightweight Torpedo"
     }
   ]
 }
