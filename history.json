@@ -1,34 +1,6 @@
 {
   "covered_stories": [
     {
-      "date": "2026-11-12",
-      "headline": "Nvidia CEO Jensen Huang Resigns Amid National Security Probe and Espionage Allegations"
-    },
-    {
-      "date": "2026-11-12",
-      "headline": "United States and China Establish Superintelligence Dialogue and Emergency AI Alert Hotline"
-    },
-    {
-      "date": "2026-11-12",
-      "headline": "Trump Envoys Meet Putin in Kremlin to Advance European Security Framework"
-    },
-    {
-      "date": "2026-11-12",
-      "headline": "Türkiye and Canada's AtkinsRéalis Sign Pact for 4.5 GW CANDU Nuclear Plant"
-    },
-    {
-      "date": "2026-11-12",
-      "headline": "CISA Mandates Emergency Remediation for Actively Exploited Cisco BroadWorks Telecom Zero-Day"
-    },
-    {
-      "date": "2026-11-12",
-      "headline": "United States and Peru Sign Civil Nuclear Cooperation Pact Under Executive Order 14299"
-    },
-    {
-      "date": "2026-11-12",
-      "headline": "SpaceX Launches Classified USSF-627 National Security Mission from Vandenberg"
-    },
-    {
       "date": "2026-11-13",
       "headline": "Trump Halts Vance's Secret Iran Diplomacy and Dismisses Further Negotiations"
     },
@@ -447,6 +419,38 @@
     {
       "date": "2026-11-25",
       "headline": "Bayraktar AKINCI Conducts First Aerial Release of Indigenous ORKA Lightweight Torpedo"
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "FCC Authorizes SpaceX to Deploy 1 Million Satellites for Orbital AI Data Centers"
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "Turkish Defense Minister Yaşar Güler Schedules Washington Talks to Break CAATSA and F-35 Impasse"
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "ESA Hera Mission Confirms NASA DART Impact Reshaped Asteroid with Stadium-Sized Crater"
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "Iranian Drone Strike in Kuwait Kills Two Italian Citizens as Hostilities Expand"
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "Satellite Imagery Exposes Rapid Construction of Fortified Iranian Subterranean Complex"
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "China Docks First Foreign Astronaut at Tiangong Space Station via Shenzhou-24"
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "Critical Drupal Installer Flaw Discovered by AI Scanner Under Mass Exploitation"
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "China Expands African Media Architecture with AI Training and Infrastructure Push in Kenya"
     }
   ]
 }
